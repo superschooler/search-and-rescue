@@ -1,0 +1,14 @@
+meet team like cards with member information when it flips on hover
+update images
+make images more uniform in appearance
+100% width
+one picture on front, maybe scroll through, dots at bottom to scroll
+MRA logo on right side of navbar || "In memory of Jef"
+keep images to 250-500kb
+text and images side by side
+topo map behind donate and join buttons on homepage
+pages for each training & searches & PR events, short description and date
+information on mountains in our area, hiking resources on them, 
+
+black diamond website
+wix outdoor websites
